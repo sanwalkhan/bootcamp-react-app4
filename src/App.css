@@ -16,4 +16,5 @@
 .btn{
   background-color:  #0D0D0D;
   color: #ffffff;
+  border: 2px solid red;
 }
